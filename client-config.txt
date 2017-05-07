@@ -1,0 +1,10 @@
+
+~/.gitconfig
+
+[url "ssh://git-mirror@home-data01/https/"]
+	insteadOf = https://
+
+[url "ssh://git-mirror@home-data01/http/"]
+	insteadOf = http://
+
+
